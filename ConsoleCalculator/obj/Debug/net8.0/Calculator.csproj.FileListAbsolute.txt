@@ -1,0 +1,15 @@
+/workspace/ConsoleCalculator/bin/Debug/net8.0/Calculator
+/workspace/ConsoleCalculator/bin/Debug/net8.0/Calculator.deps.json
+/workspace/ConsoleCalculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/workspace/ConsoleCalculator/bin/Debug/net8.0/Calculator.dll
+/workspace/ConsoleCalculator/bin/Debug/net8.0/Calculator.pdb
+/workspace/ConsoleCalculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/ConsoleCalculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/workspace/ConsoleCalculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/workspace/ConsoleCalculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/workspace/ConsoleCalculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/workspace/ConsoleCalculator/obj/Debug/net8.0/Calculator.dll
+/workspace/ConsoleCalculator/obj/Debug/net8.0/refint/Calculator.dll
+/workspace/ConsoleCalculator/obj/Debug/net8.0/Calculator.pdb
+/workspace/ConsoleCalculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/workspace/ConsoleCalculator/obj/Debug/net8.0/ref/Calculator.dll
