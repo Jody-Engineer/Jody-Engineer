@@ -1,0 +1,15 @@
+/workspace/GUICalculator/bin/Debug/net8.0-windows/CalculatorGUI
+/workspace/GUICalculator/bin/Debug/net8.0-windows/CalculatorGUI.deps.json
+/workspace/GUICalculator/bin/Debug/net8.0-windows/CalculatorGUI.runtimeconfig.json
+/workspace/GUICalculator/bin/Debug/net8.0-windows/CalculatorGUI.dll
+/workspace/GUICalculator/bin/Debug/net8.0-windows/CalculatorGUI.pdb
+/workspace/GUICalculator/obj/Debug/net8.0-windows/CalculatorGUI.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/GUICalculator/obj/Debug/net8.0-windows/CalculatorGUI.AssemblyInfoInputs.cache
+/workspace/GUICalculator/obj/Debug/net8.0-windows/CalculatorGUI.AssemblyInfo.cs
+/workspace/GUICalculator/obj/Debug/net8.0-windows/CalculatorGUI.csproj.CoreCompileInputs.cache
+/workspace/GUICalculator/obj/Debug/net8.0-windows/CalculatorGUI.sourcelink.json
+/workspace/GUICalculator/obj/Debug/net8.0-windows/CalculatorGUI.dll
+/workspace/GUICalculator/obj/Debug/net8.0-windows/refint/CalculatorGUI.dll
+/workspace/GUICalculator/obj/Debug/net8.0-windows/CalculatorGUI.pdb
+/workspace/GUICalculator/obj/Debug/net8.0-windows/CalculatorGUI.genruntimeconfig.cache
+/workspace/GUICalculator/obj/Debug/net8.0-windows/ref/CalculatorGUI.dll

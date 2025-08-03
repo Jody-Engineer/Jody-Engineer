@@ -1,0 +1,5 @@
+/workspace/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/workspace/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/workspace/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/workspace/obj/Debug/net8.0/Calculator.sourcelink.json
